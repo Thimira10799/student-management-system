@@ -38,13 +38,14 @@ Backend: **Java Spring Boot, MySQL**
 
 ```bash
 git clone https://github.com/Thimira10799/student-management-system.git
-Open the project in your IDE (IntelliJ IDEA / VS Code)
 
-2. Configure MySQL database (e.g., student_management)
+2.Open the project in your IDE (IntelliJ IDEA / VS Code)
 
-3. Run Spring Boot application
+3. Configure MySQL database (e.g., student_management)
 
-4. Open welcome.html in browser to access Admin or Student login
+4. Run Spring Boot application
+
+5. Open welcome.html in browser to access Admin or Student login
 
 🛠️ How to Use
 1. Welcome Page: Choose Admin Login or Student Login
