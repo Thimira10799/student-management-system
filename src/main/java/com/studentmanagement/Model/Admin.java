@@ -41,7 +41,7 @@ public class Admin {
     }
 
     public String getPassword() {
-        return password;   // ← THIS FIXES YOUR ERROR
+        return password;   
     }
 
     public void setPassword(String password) {
